@@ -13,3 +13,7 @@
 
 ​	未完善。
 
+### 备注：
+
+* repo里面的`.ipynb`文件很可能无法预览，请访问[nbviewer](https://nbviewer.jupyter.org/)并将github中对应文件的URL粘贴过去进行访问。
+
